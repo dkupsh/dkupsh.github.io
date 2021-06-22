@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click Here for a PDF Version](http://dkupsh.github.io/files/resume.pdf)
+
 # Education
 
 -   B.S. in Computer Science, UC Santa Barbara, 2021
