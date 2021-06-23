@@ -1,1 +1,1 @@
-Sitemap: https://dkupsh.github.io/sitemap.xml
+Sitemap: https://web.cs.ucla.edu/~dkupsh/sitemap.xml
