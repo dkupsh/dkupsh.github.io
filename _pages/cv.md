@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click Here for a PDF Version](http://dkupsh.github.io/files/resume.pdf)
+Click Here for a PDF Version
 
 # Education
 
